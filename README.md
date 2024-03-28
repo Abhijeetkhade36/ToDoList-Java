@@ -8,7 +8,7 @@ This "ToDoList" application is a simple command-line program written in Java tha
 1. **Clone the Repository:**
 
    ```bash
-   https://github.com/Abhijeetkhade36/Calculator-Java.git
+   https://github.com/Abhijeetkhade36/ToDoList-Java.git
    ```
 
 2. **Compile the Java Code:**
@@ -46,10 +46,10 @@ Select any Choice (1/2/3/4) :
 
 # Contribution
 
- If you'd like to contribute to this project or add more features to the calculator, feel free to open an issue, create a pull request, or offer suggestions. We welcome contributions
+ If you'd like to contribute to this project or add more features to the To-do-List, feel free to open an issue, create a pull request, or offer suggestions. We welcome contributions
 
 
 # License
 
-This project is licensed under the MIT Licens- see the [License](https://github.com/Abhijeetkhade36/Calculator-Java?tab=MIT-1-ov-file#MIT-1-ov-file) file for details.
+This project is licensed under the MIT Licens- see the [License](https://github.com/Abhijeetkhade36/ToDoList-Java/blob/main/LICENSE) file for details.
     
